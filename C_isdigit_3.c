@@ -3,15 +3,15 @@
 
 int main(void)
 {
-    char a = '5';
+    char a = '5'; // ì´ˆê¸°í™”
 
     if (isdigit(a) != 0)
     {
-        printf("¼ıÀÚÀÔ´Ï´Ù.\n");
+        printf("ìˆ«ìì…ë‹ˆë‹¤.\n");
     }
     else
     {
-        printf("¼ıÀÚ°¡ ¾Æ´Õ´Ï´Ù.\n");
+        printf("ìˆ«ìê°€ ì•„ë‹™ë‹ˆë‹¤.\n");
     }
 
     return 0;
