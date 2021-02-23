@@ -12,7 +12,7 @@ int main(void)
     else
     {
         printf("숫자가 아닙니다.\n");
-    }
+    } // 상황에 맞게 출력하기
 
     return 0;
 }
